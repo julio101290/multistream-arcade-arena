@@ -1,4 +1,5 @@
 # 🥁 Multistream Arcade Arena
+<img width="2816" height="1536" alt="image" src="https://github.com/user-attachments/assets/f6f65da5-4ff4-4b56-bead-096cb97124f7" />
 
 Interactive Python engine (**Pygame + FFmpeg + Ollama**) for simultaneous live streams on **TikTok, Twitch, YouTube, and Facebook**, featuring arcade voting battles, dynamic Ken Burns zoom, a local AI voice host, and automated anti-copyright protection.
 
